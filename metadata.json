@@ -1,0 +1,5 @@
+{
+  "name": "giosnotes",
+  "description": "A collaborative task board for giosnotes, featuring real-time updates and secure authentication.",
+  "requestFramePermissions": []
+}
